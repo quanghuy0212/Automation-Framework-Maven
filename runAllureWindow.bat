@@ -1,0 +1,1 @@
+set ProjectPath=%~dp0

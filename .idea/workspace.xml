@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83583003-c459-40d8-a11a-81efb928879d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runAllureWindow.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/BaseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/GlobalConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/MethodListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/TestNGAppender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/VerificationFailures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageFactory/nopcommerce/HomePageObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageFactory/nopcommerce/LoginPageObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageFactory/nopcommerce/RegisterPageObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/admin/nopcommerce/DashboardPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/admin/nopcommerce/LoginPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/admin/nopcommerce/PageGeneratorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/admin/nopcommerce/ProductDetailsPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/admin/nopcommerce/ProductSearchPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/bankguru/BalanceEnquiryPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/bankguru/DeleteAccountPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/bankguru/DeleteCustomerPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/bankguru/DepositPagePO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/bankguru/EditAccountPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/bankguru/EditCustomerPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/bankguru/FundTransferPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/bankguru/HomePagePO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/bankguru/LoginPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/bankguru/NewAccountPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/bankguru/NewCustomerPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/bankguru/PageGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/bankguru/RegisterPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/bankguru/WithdrawalPO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/nopcommerce/HomePageObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/nopcommerce/LoginPageObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/nopcommerce/MyAccountPageObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/nopcommerce/OrdersPageObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/nopcommerce/PageGeneratorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/nopcommerce/RegisterPageObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/nopcommerce/SearchPageObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/querydatatable/HomePageObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/querydatatable/PageGeneratorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUI/hrm/AddEmployeePageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUI/hrm/BasePageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUI/hrm/DashboardPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUI/hrm/EmployeeListPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUI/hrm/LoginPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUI/hrm/PersonalDetailsPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/admin/nopcommerce/AdminBasePageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/admin/nopcommerce/DashBoardPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/admin/nopcommerce/LoginPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/admin/nopcommerce/ProductDetailsPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/admin/nopcommerce/ProductSearchPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/bankguru/BalanceEnquiryUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/bankguru/BasePageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/bankguru/DeleteCustomerUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/bankguru/DepositUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/bankguru/EditAccountUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/bankguru/EditCustomerUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/bankguru/FundTransferUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/bankguru/HomePageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/bankguru/LoginPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/bankguru/NewAccountUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/bankguru/NewCustomerUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/bankguru/RegisterPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/bankguru/WithdrawalUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/query/HomePageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/saucelab/InventoryPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/saucelab/LoginPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/user/nopcommerce/HomePageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/user/nopcommerce/LoginPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/user/nopcommerce/MyAccountPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/user/nopcommerce/OrdersPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/user/nopcommerce/RegisterPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/user/nopcommerce/SearchPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportConfig/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportConfig/ExtentTestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportConfig/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/retryConfig/RetryFailTestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ultilities/ExcelConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ultilities/JsonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ultilities/MailConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ultilities/PdfConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ultilities/PropertiesConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/com/admin/nopcommerce/Level_06_UploadFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/com/bankguru/livecodingproject/editCustomerTestcases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/com/bankguru/login/Level_01_Register_Login_Base_Page_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/com/bankguru/user/User_01_New_Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/com/liveguru/login/Level_05_Data_Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/com/query/datatable/Level_05_Data_Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/runAdminNopcommerceTestCase.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/runBankguruTestcases.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/runDemoTakeScreenshot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/runHRMTestcase.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/runJquery.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/runNopcommerceTestcases.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/runSaucelabTestCase.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/stagging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testing.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ApfEhisnAM6Oevu7Adl7OoFPQT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-11",
+    "last_opened_file_path": "/Users/quanghuy/Desktop/Huy/Automation-Framework/src/test/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.scopes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/quanghuy/Desktop/Huy/Automation-Framework/src/test/resources/runBankguruTestcases.xml">
+    <configuration name="c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ultilities.c" />
+      <module name="Automation-Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ultilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/quanghuy/Desktop/Huy/Automation-Framework/src/test/resources/runBankguruTestcases.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/runBankguruTestcases.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="editCustomerTestcases.TC_01_Create_New_Customer_And_Checked_Created_Succesfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.com.bankguru.livecodingproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases.com.bankguru.livecodingproject" />
+      <option name="MAIN_CLASS_NAME" value="testcases.com.bankguru.livecodingproject.editCustomerTestcases" />
+      <option name="METHOD_NAME" value="TC_01_Create_New_Customer_And_Checked_Created_Succesfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/quanghuy/Desktop/Huy/Automation-Framework/src/test/resources/runBankguruTestcases.xml" />
+        <item itemvalue="TestNG.editCustomerTestcases.TC_01_Create_New_Customer_And_Checked_Created_Succesfully" />
+        <item itemvalue="Application.c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83583003-c459-40d8-a11a-81efb928879d" name="Changes" comment="" />
+      <created>1655711340070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655711340070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
